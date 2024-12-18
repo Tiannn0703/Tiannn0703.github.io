@@ -12,7 +12,7 @@ title                    : "Tiannnn's website"
 title_separator          : "-"
 name                     : &name "TianDing"
 description              : &description "personal description"
-url                      : "https://Tiannn0703.github.io"
+url                      : https://Tiannn0703.github.io
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "Tiannn0703/Tiannn0703.github.io"
 
